@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Singleton", "01_Singleton\01_Singleton.csproj", "{49AD263C-C51E-43E2-9DE5-5AD0E9414C26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SingletonOrnek", "01_SingletonOrnek\01_SingletonOrnek.csproj", "{6CF9E32F-5E16-47E1-808E-5575CDC7394E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{49AD263C-C51E-43E2-9DE5-5AD0E9414C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49AD263C-C51E-43E2-9DE5-5AD0E9414C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49AD263C-C51E-43E2-9DE5-5AD0E9414C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF9E32F-5E16-47E1-808E-5575CDC7394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF9E32F-5E16-47E1-808E-5575CDC7394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF9E32F-5E16-47E1-808E-5575CDC7394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF9E32F-5E16-47E1-808E-5575CDC7394E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
