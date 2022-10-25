@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Mediator", "18_Mediator\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Visitor", "19_Visitor\19_Visitor.csproj", "{CEB5852E-F0BE-4551-AD83-BDD00ECD5B98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_DependencyInjection", "20_DependencyInjection\20_DependencyInjection.csproj", "{A3942706-CBFC-41DD-BB93-CAB58EFC6727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{CEB5852E-F0BE-4551-AD83-BDD00ECD5B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEB5852E-F0BE-4551-AD83-BDD00ECD5B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEB5852E-F0BE-4551-AD83-BDD00ECD5B98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3942706-CBFC-41DD-BB93-CAB58EFC6727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3942706-CBFC-41DD-BB93-CAB58EFC6727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3942706-CBFC-41DD-BB93-CAB58EFC6727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3942706-CBFC-41DD-BB93-CAB58EFC6727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
